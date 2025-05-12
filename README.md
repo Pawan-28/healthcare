@@ -1,2 +1,0 @@
-# healthcare
-healthcare-backend
