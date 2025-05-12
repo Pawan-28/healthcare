@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Healthcare Management API (Django + DRF + PostgreSQL + JWT)
 
 This project is a backend REST API for managing patients, doctors, and their mappings. It uses Django, Django REST Framework (DRF), JWT for authentication, and PostgreSQL as the database.
@@ -39,3 +40,7 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
+=======
+# healthcare
+healthcare-backend
+>>>>>>> bf5582efa8cae31e3a8ed5eb0081b60e6b240aac
